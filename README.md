@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew-Raz-ACRV
-- 👀 I’m interested in Robotics -manipultor control kinematics and snake-like robots
-- 🌱 I’m currently learning about robotic vision
+- 👀 I’m interested in Robotics -manipulator control kinematics and snake-like robots
+- 🌱 I’m currently learning about robotic vision and robot motion planning
 - 💞️ I’m looking to collaborate on something robotics related C/C++ or python
 - 📫 How to reach me is to my email: andro_el_great@hotmail.com
 
