@@ -13,6 +13,8 @@ Before that I spent three years at CSIRO Manufacturing on industrial robotics an
 - **[Robotics-Club-Robot-arm](https://github.com/Andrew-Raz-ACRV/Robotics-Club-Robot-arm)** — a 4-DOF Raspberry Pi arm with inverse-kinematic teleoperation and uncalibrated visual pick-and-place, built with a workshop curriculum around it for the QUT Robotics Club.
 - **[ndi_tracker_project](https://github.com/Andrew-Raz-ACRV/ndi_tracker_project)** — electromagnetic tracking code used to validate the SnakeRaven kinematics against measured tip pose.
 
+Most of the above needs the hardware. If you want to run something: [SnakeRavenSimulation](https://github.com/Andrew-Raz-ACRV/SnakeRavenSimulation) and [SnakeRaven_IBVS_simulation](https://github.com/Andrew-Raz-ACRV/SnakeRaven_IBVS_simulation) are MATLAB simulations of the kinematics and the visual servoing, and they run standalone.
+
 ## Elsewhere
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=_9itsLMAAAAJ)
